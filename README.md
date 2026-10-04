@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Divyanshu 👋
 
-<!--
-**7279divyanshu/7279divyanshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend & Full-Stack Developer
 
-Here are some ideas to get you started:
+I build clean, responsive and user-focused web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+
+### Database
+- MongoDB
+
+---
+
+## 🚀 What I'm Working On
+
+- Building modern web applications with React
+- Developing REST APIs with Node.js and Express.js
+- Working with MongoDB for data storage
+- Improving my full-stack development skills
+
+---
+
+## 📚 Currently Learning
+
+- Advanced React
+- Backend architecture
+- REST API development
+- MongoDB & database design
+- Full-stack application development
+
+---
+
+## 🎯 My Approach
+
+> Build. Learn. Improve. Repeat. 🚀
+
+I believe in learning by building real-world projects
+and continuously improving my development skills.
